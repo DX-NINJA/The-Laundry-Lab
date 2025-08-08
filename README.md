@@ -1,5 +1,11 @@
-<img width="1910" height="860" alt="image" src="https://github.com/user-attachments/assets/28eb402f-1d7f-4a3d-b2d1-717af82571a8" /># The-Laundry-Lab
-This my Assignment 2  that was given by tutedude.com 
+<img width="1910" height="860" alt="Screenshot 2025-08-07 190043" src="https://github.com/user-attachments/assets/b3f36c8e-9f33-4430-8d46-eea6e4a00be7" />
+
+
+  Sample Layout
+  
+  # The-Laundry-Lab
+  
+This my Assignment 2 that was given by tutedude.com 
 
 
 # 🧼 Laundry Service Landing Page
@@ -22,8 +28,6 @@ A clean and responsive landing page for a laundry service business. This project
   - **Right Div**:
     - Image related to laundry services (e.g., washing machine, folded clothes)
 - Uses **viewport units** (`vh`, `vw`) to ensure the section fits the screen without scrolling
-
-  Sample Layout
 
 
 
