@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/21681581/README.md)
 <img width="1910" height="860" alt="image" src="https://github.com/user-attachments/assets/28eb402f-1d7f-4a3d-b2d1-717af82571a8" /># The-Laundry-Lab
 This my Assignment 2  that was given by tutedude.com 
 
