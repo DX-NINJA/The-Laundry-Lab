@@ -60,6 +60,8 @@ a {
 }
 /* navbar end  */
 
+
+
 #hero {
   background-color: #ffffff;
   height: 91.8vh;
@@ -119,11 +121,6 @@ a {
   
 }
    /* END */
-
-
-
-
-
 
 
 
@@ -265,10 +262,11 @@ margin-top: 20vh;
 
   #page-left p {
     font-size: 1rem;
-    margin: 15px 0;
+    margin: 15px 0px;
+    
   }
-  #page-link #new{
-    margin-right: 50vh;
+#page-left  #new {
+    margin: 1vh;
   }
 
   #page-left h2 {
@@ -283,3 +281,11 @@ margin-top: 20vh;
     max-width: 100%;
   }
 }
+
+
+
+
+
+
+
+
